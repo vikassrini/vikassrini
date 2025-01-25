@@ -37,16 +37,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔧 Tech Stack  
-
-- 💡 **Machine Learning**: Deep Learning, NLP 
-- 💻 **Programming**: Python, PyTorch, FastAPI  
-- 🤖 **AI & Chatbots**: GPT-4, Llama 2, LangChain, LlamaIndex
-- 📈 **Finance & Trading**: Stock Market Analysis, AI-driven Trading Strategies  
-- 📊 **Data & Web**: Web Scraping (Scrapy), Vector Databases (Weaviate), Data Processing 
-
----
-
 ## ✨ Notable Projects  
 
 📌 **[FinSight – AI-Powered Finance Assistant](https://github.com/vishwasg217/fin-sight)**  
