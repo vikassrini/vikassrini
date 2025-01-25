@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 - **Founding Partner @ Intuitifi** – Building AI-powered financial literacy tools  
 - I love **solving complex problems with ML, NLP, and AI**  
 
-📍 Bengaluru, India  
-📧 [Email Me](mailto:1rn20cs178.vikassrinivasa@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/vikas-srinivasa) | ✍️ [Medium Blogs](https://medium.com/@vikassrinivasa) | 🌐 **Portfolio Coming Soon**  
-
 ---
 
 ## 🔧 Tech Stack  
