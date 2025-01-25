@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 ![AI & FinTech](https://img.shields.io/badge/-AI%20%26%20FinTech-blueviolet?style=flat) 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-blue?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-red?style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 ---
