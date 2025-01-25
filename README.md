@@ -40,12 +40,15 @@ Here are some ideas to get you started:
 ## ✨ Notable Projects  
 
 📌 **[FinSight – AI-Powered Finance Assistant](https://github.com/vishwasg217/fin-sight)**  
-- GPT-4 + Financial Data for **investment insights**  
-- **Stock selection & AI-based analysis**  
+- 📊 Designed and developed a GPT-4-powered financial AI assistant, delivering insightful investment analysis
+- 💡 Led the conceptualization and strategic direction of the project
+- 📝 Engineered and optimized prompts to enhance AI-driven decision-making
 
 📌 **[Real-Time AI Physician Chatbot](https://github.com/vikassrini/PhysicianAI-Chatbot)**  
-- **3D AI Avatar** with Google Text-to-Speech  
-- **Medical RAG model** for blood report insights  
+- 🩺 Developed an AI-powered physician chatbot using FastAPI and GPT-4 for intelligent medical assistance
+- 📄 Implemented a RAG-based system enabling users to upload and analyze medical reports for enhanced contextual insights
+- 🤖 Designed and animated an interactive 3D AI avatar using Blender for a more engaging user experience
+- 🔊 Integrated Google Text-to-Speech, allowing the AI avatar to deliver spoken responses for improved accessibility        
 
 ---
 
