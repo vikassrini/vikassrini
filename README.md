@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ## 📬 Let's Connect!  
 
-[![Gmail](https://img.shields.io/badge/Gmail-1rn20cs178.vikassrinivasa%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:1rn20cs178.vikassrinivasa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-srinivasavikas0@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:srinivasavikas0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Srinivasa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vikas-srinivasa)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?style=flat&logo=medium)](https://medium.com/@vikassrinivasa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Online-blue?style=flat&logo=web)](https://vikassrini.github.io/)
