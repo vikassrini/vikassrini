@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 [![Gmail](https://img.shields.io/badge/Gmail-srinivasavikas0@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:srinivasavikas0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikas%20Srinivasa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vikas-srinivasa)
-[![Hashnode](https://img.shields.io/badge/Hashnode-%23007BFF.svg?style=flat&logo=hashnode&logoColor=white)](https://@vikassrinivasa.hashnode.dev/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-%23007BFF.svg?style=flat&logo=hashnode&logoColor=white)](https://transformers-goto-guide.hashnode.dev/series/transformer-intuition-explained)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@vikassrinivasa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=web)](https://vikassrini.github.io/)
 
