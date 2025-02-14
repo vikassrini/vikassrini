@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 | 📌 Blog Series | Description |
 |----------------|-------------|
-| [**Decoding Trading Strategies with AI**](https://your-trading-blog-link.com) | Exploring ML-driven algorithmic trading, backtesting strategies, and AI-powered financial decision-making. |
+| [**Decoding Trading Strategies with AI**](https://my-experiments-with-ai-in-finance.hashnode.dev/) | Exploring ML-driven algorithmic trading, backtesting strategies, and AI-powered financial decision-making. |
 | [**Transformers: Intuition & Beyond**](https://transformers-goto-guide.hashnode.dev/series/transformer-intuition-explained) | Breaking down transformers from self-attention to LLMs, explained in an intuitive way. |
 
 
