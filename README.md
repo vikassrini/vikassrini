@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - **AI & FinTech Enthusiast** | **GenAI Engineer**  
 - Passionate about **AI-driven solutions, financial technologies, and chatbot development**  
-- **Founding Partner @ Intuitifi** – Building AI-powered financial literacy tools  
+- **Founding Partner | AI Engineer @ Intuitifi** – Building AI-powered financial literacy tools  
 - I love **solving complex problems with ML, NLP, and AI**  
 
 ---
