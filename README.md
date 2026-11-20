@@ -1,12 +1,4 @@
-<img src="./banner.svg" alt="Vikas Srinivasa · Applied AI Engineer · Building AI that knows when it can be trusted" width="100%"/>
-
-<p>
-<a href="https://www.linkedin.com/in/vikas-srinivasa"><img src="https://img.shields.io/badge/LinkedIn-191724?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://hashnode.com/@vikassrinivasa"><img src="https://img.shields.io/badge/Blog-26233a?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-<a href="https://medium.com/@vikassrinivasa"><img src="https://img.shields.io/badge/Medium-191724?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://vikassrini.github.io/"><img src="https://img.shields.io/badge/Portfolio-26233a?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-<a href="mailto:srinivasavikas0@gmail.com"><img src="https://img.shields.io/badge/Email-191724?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="./banner.svg" alt="Vikas Srinivasa · Applied AI Engineer · Building AI that knows when it can be trusted" width="100%"/> <p> <a href="https://www.linkedin.com/in/vikas-srinivasa"><img src="https://img.shields.io/badge/LinkedIn-171a1d?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://hashnode.com/@vikassrinivasa"><img src="https://img.shields.io/badge/Blog-332827?style=for-the-badge&logo=hashnode&logoColor=white"/></a> <a href="https://medium.com/@vikassrinivasa"><img src="https://img.shields.io/badge/Medium-814738?style=for-the-badge&logo=medium&logoColor=white"/></a> <a href="https://vikassrini.github.io/"><img src="https://img.shields.io/badge/Portfolio-d97b4a?style=for-the-badge&logo=githubpages&logoColor=white"/></a> <a href="mailto:srinivasavikas0@gmail.com"><img src="https://img.shields.io/badge/Email-f5c583?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
 My path into AI started on a cricket field. I played cricket professionally until a back injury ended that career. Seven years after my initial studies, I went back to complete my degree in Computer Science, and that's where I found AI.
 
