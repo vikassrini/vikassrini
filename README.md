@@ -41,10 +41,8 @@ Here are some ideas to get you started:
 
 | 📌 Blog Series | Description |
 |----------------|-------------|
-| [**Decoding Trading Strategies with AI**](https://my-experiments-with-ai-in-finance.hashnode.dev/) | Exploring ML-driven algorithmic trading, backtesting strategies, and AI-powered financial decision-making. |
-| [**Transformers: Intuition & Beyond**](https://transformers-goto-guide.hashnode.dev/series/transformer-intuition-explained) | Breaking down transformers from self-attention to LLMs, explained in an intuitive way. |
+| [**Transformers: Intuition & Beyond**](https://blog.vikassrinivasa.dev/series/transformer-intuition-explained) | Breaking down transformers from self-attention to LLMs, explained in an intuitive way. |
 | [**The Intuitive Fine-Tuning Series**](https://intuitive-fine-tuning.hashnode.dev/) | Demystifying fine-tuning techniques for LLMs through simple analogies, step-by-step guides, and practical code snippets.|
-| [**Bull Without The Bullshit**](https://bull-without-the-bullshit.hashnode.dev/) | A candid dive into personal finance and investing—debunking myths, simplifying concepts, and documenting my real-world learning journey.|
 
 ---
 
