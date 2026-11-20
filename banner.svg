@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0b2422"/>
+      <stop offset="60%" stop-color="#143a37"/>
+      <stop offset="100%" stop-color="#1E4D4A"/>
+    </linearGradient>
+    <linearGradient id="auto" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3f8a82" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#3f8a82" stop-opacity="0.35"/>
+    </linearGradient>
+    <style>
+      .name  { font: 700 56px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+      .role  { font: 600 20px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #7fd1c6; letter-spacing: 2px; }
+      .line  { font: 400 19px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #d4ece9; }
+      .lbl   { font: 600 13px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 1.5px; }
+      .axis  { font: 400 12px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #8fbfb9; }
+      .curve { stroke-dasharray: 700; animation: draw 2.2s ease-out; }
+      @keyframes draw { from { stroke-dashoffset: 700; } to { stroke-dashoffset: 0; } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.45; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- pitch stripes, a quiet nod to cricket -->
+  <g fill="#ffffff" opacity="0.025">
+    <rect x="0" y="0" width="60" height="280"/><rect x="120" y="0" width="60" height="280"/>
+    <rect x="240" y="0" width="60" height="280"/><rect x="360" y="0" width="60" height="280"/>
+    <rect x="480" y="0" width="60" height="280"/><rect x="600" y="0" width="60" height="280"/>
+  </g>
+
+  <!-- left: name and line -->
+  <text x="70" y="88" class="role">APPLIED AI ENGINEER</text>
+  <text x="68" y="150" class="name">Vikas Srinivasa</text>
+  <text x="70" y="192" class="line">Building AI that knows when it can be trusted,</text>
+  <text x="70" y="218" class="line">and hands the rest to a person.</text>
+
+  <!-- right: confidence chart -->
+  <g transform="translate(740,40)">
+    <!-- zones -->
+    <rect x="0" y="0" width="230" height="190" fill="#000000" opacity="0.18" rx="6"/>
+    <rect x="230" y="0" width="160" height="190" fill="url(#auto)" rx="6"/>
+    <text x="115" y="22" text-anchor="middle" class="lbl" fill="#d4ece9">HUMAN REVIEW</text>
+    <text x="310" y="22" text-anchor="middle" class="lbl" fill="#7fd1c6">AUTOMATE</text>
+
+    <!-- axes -->
+    <line x1="0" y1="190" x2="390" y2="190" stroke="#5f9f97" stroke-width="1.5"/>
+    <text x="195" y="214" text-anchor="middle" class="axis">model confidence →</text>
+
+    <!-- reliability curve -->
+    <path class="curve" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"
+          d="M10 175 C 90 172, 150 160, 200 120 S 270 45, 380 38"/>
+
+    <!-- threshold -->
+    <line x1="230" y1="30" x2="230" y2="190" stroke="#7fd1c6" stroke-width="2" stroke-dasharray="6 5"/>
+    <circle class="pulse" cx="230" cy="88" r="6" fill="#7fd1c6"/>
+    <text x="238" y="182" class="axis">threshold</text>
+  </g>
+</svg>
