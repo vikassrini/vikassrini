@@ -24,7 +24,7 @@ I also love writing about tech, especially explaining the intuition behind compl
 ## 🧭 My Entire Philosophy, in One Flowchart
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#26233a','primaryTextColor':'#e0def4','primaryBorderColor':'#c4a7e7','lineColor':'#ebbcba','secondaryColor':'#1f1d2e','tertiaryColor':'#191724','fontFamily':'Segoe UI, Helvetica, Arial, sans-serif'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#332827','primaryTextColor':'#fdf7cc','primaryBorderColor':'#f5c583','lineColor':'#d97b4a','secondaryColor':'#171a1d','tertiaryColor':'#171a1d','fontFamily':'Segoe UI, Helvetica, Arial, sans-serif'}}}%%
 flowchart LR
     A[Model makes a prediction] --> B{Confident enough?<br/><i>and can it prove it?</i>}
     B -- Yes --> C[✅ Ship it]
