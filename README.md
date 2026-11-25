@@ -54,7 +54,7 @@ flowchart LR
 
 <br/>
 
-At Toosi I crawled travel data with **Scrapy**, cleaned it into a training set, and fine-tuned **Llama 2 with LoRA** on RunPod GPUs. It became a travel expert and promptly forgot how to be anything else (hello, **catastrophic forgetting**). So I switched to **RAG**, keeping the knowledge in retrieval instead of cramming it into the weights.
+At Toosi I crawled travel data with **Scrapy**, cleaned it into a training set, and fine-tuned **Llama 2 with LoRA** on RunPod GPUs. It promptly forgot how to be anything else (hello, **catastrophic forgetting**). So I switched to **RAG**, keeping the knowledge in retrieval instead of cramming it into the weights.
 
 **Lesson:** fine-tuning teaches a model *how* to talk; retrieval tells it *what's true*. Know which one you need.
 
